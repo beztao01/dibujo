@@ -1,10 +1,10 @@
 ---
 layout: default
-title: sesión 01
+title: Sesión 01
 nav order: 2
 ---
 
-#Sesion 01
+# Sesion 01
 
 Programas a utilizar
 
