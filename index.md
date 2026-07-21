@@ -3,7 +3,7 @@ title: Bienvenida
 layout: home
 ---
 
-Bienvenidos a nuestra materia de Fundamentos de Diseño Mecánico que se imparte en la ingeniería en mecánica industrial.
+Bienvenidos a nuestra materia de Dibujo y Diseño asistido por computadora que se imparte en...
 
 En esta primera sesión veremos una serie de puntos importante que te mencionará su facilitador.
 
