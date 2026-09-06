@@ -6,7 +6,18 @@ nav order: 2
 
 # Sesion 01
 
-Programas a utilizar
+En esta primera sesión veremos una serie de puntos importante que te mencionará su facilitador.
+
+- Calendario.
+- El Syllabus
+- El reglamento general de la asignatura
+- El reglamento de laboratorios
+- Documento de información general que esta en el Blackboard
+- Acceso a Blackboard
+- Acreditación de la materia
+- Biblografía y referencias
+- Software necesario
+- Firma de Syllabus
 
 ## Blackboard
 
