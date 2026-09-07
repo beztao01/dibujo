@@ -1,6 +1,6 @@
 ---
-title: Bienvenida
 layout: home
+title: Bienvenida
 nav order: 1
 ---
 
