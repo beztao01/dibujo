@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sesión 13 P 
+title: Sesión 13  
 nav_order: 14
 ---
 
