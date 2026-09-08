@@ -6,7 +6,7 @@ nav_order: 2
 
 # Sesion 01
 
-En esta primera sesión veremos una serie de puntos importante que te mencionará su facilitador.
+En esta primera sesión veremos una serie de puntos importante que te mencionará tu facilitador.
 
 
 - [Reloj](https://beztao01.github.io/relok-uvm/)
@@ -23,4 +23,4 @@ En esta primera sesión veremos una serie de puntos importante que te mencionar�
 
 ## Blackboard
 
-Todas las actividades se entran a las 3:00 am
+Todas las actividades se entregan a las 3:00 am
