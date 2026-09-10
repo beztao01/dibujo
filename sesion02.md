@@ -15,6 +15,9 @@ nav_order: 3
 - [GIMP](https://www.gimp.org)
 - [SolidWorks](https://www.solidworks.com/es/product/students)
 
+## Página a leer
+- [Sistema americano y sistema europe de dibujo](https://www.areatecnologia.com/TUTORIALES/VISTAS%20EUROPEO%20Y%20AMERICANO.htm)
+
 ## Solidworks Requerimientos
 
 - [Requisitos de sistema de gestión de datos de Soliworks](https://www.solidworks.com/es/support/system-requirements)

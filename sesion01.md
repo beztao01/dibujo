@@ -10,7 +10,7 @@ En esta primera sesi√≥n veremos una serie de puntos importante que te mencionar√
 
 
 - [Reloj](https://beztao01.github.io/relok-uvm/)
-- Calendario.
+- [Calendario.](./assets/CALENDARIO%20LX.pdf)
 - [El Syllabus](./assets/dibujo.pdf)
 - [El reglamento general de la asignatura](https://beztao01.github.io/reveral/)
 - [El reglamento de laboratorios](https://beztao01.github.io/documentos/laboratorios.pdf)
