@@ -4,7 +4,7 @@ title: Sesión 01
 nav_order: 2
 ---
 
-# Sesion 01
+# Sesión 01
 
 En esta primera sesión veremos una serie de puntos importante que te mencionará tu facilitador.
 
