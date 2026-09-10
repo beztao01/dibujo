@@ -17,7 +17,7 @@ En esta primera sesión veremos una serie de puntos importante que te mencionar�
 - [Documento de información general que esta en el Blackboard](./assets/DDAP.pdf)
 - [Acceso a Blackboard](https://uvmonline.blackboard.com)
 - Acreditación de la materia
-- Biblografía y referencias
+- [Biblografía y referencias](./referencias.md)
 - Software necesario
 - Firma de Syllabus
 
