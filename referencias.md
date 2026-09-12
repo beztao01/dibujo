@@ -49,3 +49,13 @@ _DE_PRACTICAS_DE_SolidWorks.pdf
 https://easyworks.es/wp-content/uploads/2017/11/Manual-de-buenas-practicas-
 SOLIDWORKS.pdf
 13 / 13
+
+## Sugencia de Sandoval
+
+### Freecad
+
+- [FreeCAD - Symbols and Views in the TechDraw Workbench JOKO ENGINEERING](https://youtu.be/cggBR1Ghq7k?si=KBXOb8YJbW8n0fYl)
+
+- [Part Modeling & Drafting in FreeCAD FreeCAD Drawing 3D Modeling Learn FreeCAD Mechnexus ](https://youtu.be/uca3SLq20XQ?si=mhy4I68hBAlygHJ5)
+
+- [Make Custom Header on Technical Drawing using FreeCAD and Inkscape](https://youtu.be/LhZvu74DX00?si=du9FhB3oM5ranpyZ)
