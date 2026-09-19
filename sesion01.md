@@ -10,6 +10,7 @@ En esta primera sesión veremos una serie de puntos importante que te mencionar�
 
 
 - [Reloj](https://beztao01.github.io/relok-uvm/)
+- [Bitácora](https://myuvmedu.sharepoint.com/:x:/s/C1-202675L6LIC.SEMESTRALMIXTA/IQAYFHJknHITToM5WzO7cF3AAetqekt1ms-dAA7BWspGWmU?e=5swIHs)
 - [Calendario.](./assets/CALENDARIO%20LX.pdf)
 - [El Syllabus](./assets/dibujo.pdf)
 - [El reglamento general de la asignatura](https://beztao01.github.io/reveral/)
