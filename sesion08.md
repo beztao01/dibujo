@@ -10,6 +10,7 @@ retroalimentacion y calificaciones.
 - [Blender 5.2](https://www.blender.org/)
 - [Sketchfab](https://sketchfab.com/feed)
 - [MakeHuaman](http://www.makehumancommunity.org/content/downloads.html) muy lenta la conexión y sin https
+- [MPFB](https://extensions.blender.org/add-ons/mpfb/)
 - Ejercicios de Freecad
 
 
