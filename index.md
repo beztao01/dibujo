@@ -10,7 +10,7 @@ Bienvenidos a nuestra materia de Dibujo y Diseño asistido por computador que se
 
 > 📢 **¡ANUNCIO IMPORTANTE!**
 > <div style="background-color: #3b3a3d; color: #e6e1e8; padding: 15px; border-left: 6px solid #5ea1fb; border-radius: 5px;">
->   **Actualizaciones** <B>10-10-26 </B> <BR>   Se agregó la pagina planos con la recopilación de planos que se han desarrollado en el curso.
+>   **Actualizaciones** <B>10-10-26 </B> <BR>   Se agregó la página planos con la recopilación de planos que se han desarrollado en el curso.
 >   
 > </div>
 
