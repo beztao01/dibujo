@@ -4,7 +4,7 @@ title: Planos
 nav_order: 10
 ---
 
-# Sesión 08
+# Planos
 
 > 📢 **¡ANUNCIO IMPORTANTE!**
 > <div style="background-color: #3b3a3d; color: #e6e1e8; padding: 15px; border-left: 6px solid #5ea1fb; border-radius: 5px;">

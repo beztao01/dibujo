@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sesión 07 P
+title: Sesión 07 
 nav_order: 8
 ---
 
