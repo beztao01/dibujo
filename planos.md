@@ -12,7 +12,7 @@ nav_order: 10
 >   
 > </div>
 
-- [EJercicio 001]()    ejercicio cubo
+- [EJercicio 001](./assets/pdf/Plano001.pdf)    ejercicio cubo
 - [Ejercicio 002](./assets/pdf/ejercicio02Plano.pdf)   base rectangular y pad circular
 - [Ejercicio 003](./assets/pdf/ejercicio03Plano.pdf)   cubo con un barreno
 - [Ejercicio 004](./assets/pdf/ejercicio04Plano.pdf)   cubo con pad circular y barreno
