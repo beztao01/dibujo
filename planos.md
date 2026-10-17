@@ -21,7 +21,7 @@ nav_order: 10
 - [Ejercicio 007](./assets/pdf/ejercicio007.pdf)   cubo barrenado
 - [proximo 008](./assets/pdf/ejercicio008.pdf)   solido de revolución
 - [proximo 008](./assets/pdf/ejercicio009.pdf)   polea
-- [proximo 008](./assets/pdf/ejercicio007.pdf)   cubo barrenado
+- [proximo 008](./assets/pdf/ejercicio010.pdf)   solido de revolución 02
 
 
 
