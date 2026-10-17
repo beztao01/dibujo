@@ -18,7 +18,11 @@ nav_order: 10
 - [Ejercicio 004](./assets/pdf/ejercicio04Plano.pdf)   cubo con pad circular y barreno
 - [Ejercicio 005](./assets/pdf/ejercicio05Plano.pdf)   "mac mini"
 - [Ejercicio 006](./assets/pdf/ejercicio006.pdf)   cubo redondeado
-- [Ejercicio 007](./assets/pdf/)   cubo barrenado
+- [Ejercicio 007](./assets/pdf/ejercicio007.pdf)   cubo barrenado
+- [proximo 008](./assets/pdf/ejercicio007.pdf)   cubo barrenado
+- [proximo 008](./assets/pdf/ejercicio007.pdf)   cubo barrenado
+- [proximo 008](./assets/pdf/ejercicio007.pdf)   cubo barrenado
+
 
 
 
